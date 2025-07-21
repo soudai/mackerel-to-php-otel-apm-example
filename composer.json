@@ -1,0 +1,12 @@
+{
+    "require": {
+        "slim/slim": "^4",
+        "slim/psr7": "^1",
+        "monolog/monolog": "^3",
+        "open-telemetry/api": "^1.4",
+        "open-telemetry/sem-conv": "^1.32",
+        "guzzlehttp/guzzle": "^7.9",
+        "open-telemetry/sdk": "^1.6",
+        "open-telemetry/exporter-otlp": "^1.3"
+    }
+}
